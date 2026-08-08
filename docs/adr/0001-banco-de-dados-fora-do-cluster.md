@@ -1,4 +1,3 @@
-```markdown
 # ADR 0001: Utilização de Banco de Dados Gerenciado Fora do Cluster de Containers
 
 - **Status:** Aprovado
@@ -75,4 +74,3 @@ O sistema está em fase inicial (MVP) com baixa carga, mas planeja-se escalar pa
 - **Teste de Recuperação:** Realizado restore a partir de snapshot em 8 minutos.
 - **Failover Simulado:** Multi-AZ (em staging) completou em 45 segundos.
 - **Latência Média:** 8ms entre ECS e RDS na mesma AZ.
-```

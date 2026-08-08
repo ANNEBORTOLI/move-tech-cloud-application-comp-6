@@ -1,4 +1,3 @@
-```markdown
 # ADR 0002: Estratégia de Exposição e Roteamento de Tráfego
 
 - **Status:** Aprovado
@@ -80,4 +79,3 @@ A aplicação é um backend REST simples.
 - **Teste de Carga:** ALB distribuiu tráfego uniformemente entre 3 tasks ECS, latência adicional < 5ms.
 - **Health Check:** Container unhealthy detectado em 45s e removido automaticamente.
 - **Failover:** Multi-AZ garante que falha de uma AZ não interrompe o serviço.
-```
