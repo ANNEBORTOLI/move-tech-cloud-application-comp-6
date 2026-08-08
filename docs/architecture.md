@@ -1,3 +1,6 @@
+**Aluno:** Anne Bortoli de Oliveira
+**Repositório do Projeto:** https://github.com/ANNEBORTOLI/move-tech-cloud-application-comp-6
+
 # Documentação de Arquitetura da Solução - MoveTech
 
 ## 1. Mapeamento de Recursos
