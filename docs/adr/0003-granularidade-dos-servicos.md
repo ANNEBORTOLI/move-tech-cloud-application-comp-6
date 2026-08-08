@@ -1,7 +1,7 @@
 # ADR 0003: Granularidade da Aplicação — Monolito Modular versus Microsserviços
 
 - **Status:** Aprovado
-- **Data:** 2025-03-01
+- **Data:** 2026-08-08
 - **Stakeholders:** Tech Lead, Arquiteto de Software, Product Owner, DevOps
 
 ---
